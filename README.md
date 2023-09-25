@@ -18,6 +18,8 @@ Coming soon!
 # Use
 Coming soon!
 
+See an example of a command line run of the pipeline in the "example" folder of this repo.
+
 # Project TODO
 - Add a GUI for easy pipeline running + filtering of input CSV
 
