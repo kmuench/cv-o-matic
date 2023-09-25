@@ -1,4 +1,4 @@
-# python2latex
+# CV-O-MATIC
 *A tool to help automate customizable CV creation.*
 
 Multifaceted professionals are often faced with the challenge of communicating their usefulness to potential employers in the limited space of a CV. You must think carefully about what parts of yourself to highlight, and the challenge only grows with the volume of new skills and interesting experiences. Would an employer's problem be best addressed by your communication or your leadership skills? Or your arcane engineering powers? Or both?
@@ -17,6 +17,9 @@ Coming soon!
 
 # Use
 Coming soon!
+
+# Project TODO
+- Add a GUI for easy pipeline running + filtering of input CSV
 
 # Important Miscellany
 MIT License
