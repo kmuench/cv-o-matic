@@ -5,7 +5,7 @@ Multifaceted professionals are often faced with the challenge of communicating t
 
 Keeping track of multiple versions of a CV feels messy, and adapting your CV every time you have a new skill or a new work accomplishment is painful and time-consuming.
 
-Voilá - CV-O-Matic! This is a side project and a roundabout expression of my frustration for error-prone, back-and-forth formatting tweaking. 
+Voilà - CV-O-Matic! This is a side project and a roundabout expression of my frustration for error-prone, back-and-forth formatting tweaking. 
 
 The intended use is:
 - Maintain a master database (private CSV) of all of your work experiences, skills, etc.
