@@ -241,21 +241,6 @@ def generate_latex_education(education_dict_list):
                                       lower_left='details_string', lower_right='location',
                                       flag_add_details=False)
     
-    # LATEX_TEMPLATE_EDUCATION=f"""
-    # %-----------EDUCATION-------------------------
-    # % Mention your CGPA, if its good, in the first row of second column
-
-    # \\section{{Education}}
-    # \\resumeHeadingListStart{{}}
-    #     \\resumeQuadHeading{{ {UNIVERSITY_1} }}{{ {UNIVERSITY_1_DEGREE} }}
-    #     {{ {UNIVERSITY_1_ACCOLADE_1} }}{{ {UNIVERSITY_1_DATES} }}
-
-    #     \\resumeQuadHeading{{ {UNIVERSITY_2} }}{{ {UNIVERSITY_2_DEGREE} }}
-    #     {{ {UNIVERSITY_2_ACCOLADE_1} }}{{ {UNIVERSITY_2_DATES} }}
-    #     {{ {UNIVERSITY_2_ACCOLADE_2} }}
-    # \\resumeHeadingListEnd{{}}
-    # %---------------------------------------------
-    # """
 
     return(LATEX_TEMPLATE_EDUCATION)
 
